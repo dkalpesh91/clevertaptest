@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "463680622432",
+    "firebase_url": "https://clevertaptest-2a626.firebaseio.com",
+    "project_id": "clevertaptest-2a626",
+    "storage_bucket": "clevertaptest-2a626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463680622432:android:309a9b4d7238d52becd805",
+        "android_client_info": {
+          "package_name": "com.example.clevertapintegapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463680622432-p4jimivlcnbo9ecjqn8evbvtbboqau3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl4Tm0ei4DD77u_goKns81xEq8a4lifrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463680622432-p4jimivlcnbo9ecjqn8evbvtbboqau3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

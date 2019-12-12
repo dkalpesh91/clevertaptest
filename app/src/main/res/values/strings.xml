@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CleverTapIntegApp</string>
+    <string name="trigger_event">Trigger Event</string>
+</resources>
